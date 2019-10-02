@@ -1,0 +1,13 @@
+D:\Daya\SEXTO\Analisis y Diseño II\Practicas C#\ventaPizza\ventaPizza\bin\Debug\ventaPizza.exe.config
+D:\Daya\SEXTO\Analisis y Diseño II\Practicas C#\ventaPizza\ventaPizza\bin\Debug\ventaPizza.exe
+D:\Daya\SEXTO\Analisis y Diseño II\Practicas C#\ventaPizza\ventaPizza\bin\Debug\ventaPizza.pdb
+D:\Daya\SEXTO\Analisis y Diseño II\Practicas C#\ventaPizza\ventaPizza\obj\Debug\ventaPizza.csprojResolveAssemblyReference.cache
+D:\Daya\SEXTO\Analisis y Diseño II\Practicas C#\ventaPizza\ventaPizza\obj\Debug\ventaPizza.exe
+D:\Daya\SEXTO\Analisis y Diseño II\Practicas C#\ventaPizza\ventaPizza\obj\Debug\ventaPizza.pdb
+C:\Users\Morelia Hidalgo C\Documents\6toSEMESTRE\ANALISIS-2\programas\ventaPizza\ventaPizza\obj\Debug\ventaPizza.csprojAssemblyReference.cache
+C:\Users\Morelia Hidalgo C\Documents\6toSEMESTRE\ANALISIS-2\programas\ventaPizza\ventaPizza\obj\Debug\ventaPizza.csproj.CoreCompileInputs.cache
+C:\Users\Morelia Hidalgo C\Documents\6toSEMESTRE\ANALISIS-2\programas\ventaPizza\ventaPizza\obj\Debug\ventaPizza.exe
+C:\Users\Morelia Hidalgo C\Documents\6toSEMESTRE\ANALISIS-2\programas\ventaPizza\ventaPizza\obj\Debug\ventaPizza.pdb
+C:\Users\Morelia Hidalgo C\Documents\6toSEMESTRE\ANALISIS-2\programas\ventaPizza\ventaPizza\bin\Debug\ventaPizza.exe.config
+C:\Users\Morelia Hidalgo C\Documents\6toSEMESTRE\ANALISIS-2\programas\ventaPizza\ventaPizza\bin\Debug\ventaPizza.exe
+C:\Users\Morelia Hidalgo C\Documents\6toSEMESTRE\ANALISIS-2\programas\ventaPizza\ventaPizza\bin\Debug\ventaPizza.pdb
